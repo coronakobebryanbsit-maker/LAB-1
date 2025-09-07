@@ -1,0 +1,14 @@
+┌───────────┬───────────┬──────────┬────────┬─────────────┬──────────────┬──────────────────────────┬─────────────┬───────────────────┬───────────┐
+│ StudentID │ FirstName │ LastName │ Gender │ DateOfBirth │ EnrollmentDate│ Email                    │ PhoneNumber │ Major             │ Status    │
+├───────────┼───────────┼──────────┼────────┼─────────────┼──────────────┼──────────────────────────┼─────────────┼───────────────────┼───────────┤
+│ 1         │ Alex      │ Rivera   │ Male   │ 2003-02-14  │ 2024-09-01    │ alex.rivera@example.com   │ 09171234567 │ Computer Science   │ Active    │
+│ 2         │ Bianca    │ Santos   │ Female │ 2002-11-20  │ 2024-09-02    │ bianca.santos@example.com │ 09181234567 │ Information Tech   │ Active    │
+│ 3         │ Carlos    │ Tan      │ Male   │ 2001-07-05  │ 2023-09-03    │ carlos.tan@example.com    │ 09191234567 │ Software Eng       │ Graduated │
+│ 4         │ Diana     │ Lim      │ Female │ 2003-01-09  │ 2024-09-04    │ diana.lim@example.com     │ 09172234567 │ Computer Science   │ Active    │
+│ 5         │ Ethan     │ Garcia   │ Male   │ 2000-12-30  │ 2022-09-05    │ ethan.garcia@example.com  │ 09173234567 │ Business IT        │ Inactive  │
+│ 6         │ Fiona     │ Cruz     │ Female │ 2002-05-17  │ 2023-09-06    │ fiona.cruz@example.com    │ 09174234567 │ Data Science       │ Active    │
+│ 7         │ George    │ Lopez    │ Male   │ 2004-09-23  │ 2024-09-07    │ george.lopez@example.com  │ 09175234567 │ Multimedia Arts    │ Active    │
+│ 8         │ Hannah    │ Torres   │ Female │ 2001-03-11  │ 2022-09-08    │ hannah.torres@example.com │ 09176234567 │ Information Tech   │ Graduated │
+│ 9         │ Ivan      │ Reyes    │ Male   │ 2002-08-19  │ 2023-09-09    │ ivan.reyes@example.com    │ 09177234567 │ Network Eng        │ Active    │
+│ 10        │ Julia     │ Domingo  │ Female │ 2003-10-25  │ 2024-09-10    │ julia.domingo@example.com │ 09178234567 │ Cybersecurity      │ Active    │
+└───────────┴───────────┴──────────┴────────┴─────────────┴──────────────┴──────────────────────────┴─────────────┴───────────────────┴───────────┘
